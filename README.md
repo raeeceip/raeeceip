@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raeeceip
-- 👀 I’m interested in neurosychology and artificial intelligence
-- 🌱 I’m currently learning django and jupyter framework
+- 👀 I’m interested in neuropsychology and artificial intelligence
+- 🌱 I’m currently learning django framework
 - 💞️ I’m looking to collaborate on web develoment projects
 - 📫 How to reach me: Email @chiboguchisomu@gmail.com
 
