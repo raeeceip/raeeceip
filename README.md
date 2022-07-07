@@ -5,7 +5,7 @@
 - 📫 How to reach me: Email @chiboguchisomu@gmail.com
 
 Proficient in :
--<HTML>-
+-HTML-
 -Python
 -Javascript
 -CSS
