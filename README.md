@@ -15,9 +15,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeuhz-droid&show_icons=true&locale=en&layout=compact" alt="zeuhz-droid" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raeeceip&show_icons=true&locale=en&layout=compact" alt="raeeceip" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeuhz-droid&show_icons=true&locale=en" alt="zeuhz-droid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raeeceip&show_icons=true&locale=en" alt="raeeceip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raeeceip&" alt="raeeceip" /></p>
 
