@@ -12,7 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
 ### Github Statistics and others...
@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raeeceip" alt="raeeceip" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_Chisomu" target="blank"><img src="https://img.shields.io/twitter/follow/zeuhzdroid?logo=twitter&style=for-the-badge" alt="zeuhzdroid" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_Chisomu" target="blank"><img src="https://img.shields.io/twitter/follow/_Chisomu?logo=twitter&style=for-the-badge" alt="_Chisomu" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raeeceip&show_icons=true&locale=en&layout=compact" alt="raeeceip" /></p>
 
