@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web develoment projects
 - 📫 How to reach me: Email @chiboguchisomu@gmail.com
 ---
-<h3>hammer_and_wrench: Languages and Tools :<h3>
+<h3  align="center"> hammer_and_wrench: Languages and Tools :<h3>
 <div align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
