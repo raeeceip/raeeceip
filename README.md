@@ -15,6 +15,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeuhz-droid&show_icons=true&locale=en&layout=compact" alt="zeuhz-droid" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeuhz-droid&show_icons=true&locale=en" alt="zeuhz-droid" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raeeceip&" alt="raeeceip" /></p>
+
+
 <!---
 raeeceip/raeeceip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
