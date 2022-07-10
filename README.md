@@ -15,6 +15,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
+### Github Statistics and others...
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raeeceip&label=Profile%20views&color=0e75b6&style=flat" alt="raeeceip" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raeeceip" alt="raeeceip" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/_Chisomu" target="blank"><img src="https://img.shields.io/twitter/follow/zeuhzdroid?logo=twitter&style=for-the-badge" alt="zeuhzdroid" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raeeceip&show_icons=true&locale=en&layout=compact" alt="raeeceip" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raeeceip&show_icons=true&locale=en" alt="raeeceip" /></p>
