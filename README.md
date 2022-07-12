@@ -25,8 +25,7 @@
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=raeeceip&theme=dark&show_icons=true&locale=en" alt="raeeceip" /></p>
 
 <p align="center">&nbsp;<img  src="http://github-readme-streak-stats.herokuapp.com?user=raeeceip&theme=dark&hide_border=true" alt="raeeceip" /></p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeeceip&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raeeceip&layout=compact&theme=vision-friendly-dark" alt="raeeceip" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raeeceip&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
