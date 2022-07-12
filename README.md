@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
 </div>
-
+---
 ### Github Statistics and others...
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raeeceip&label=Profile%20views&color=0e75b6&style=flat" alt="raeeceip" /> </p>
@@ -27,7 +27,7 @@
 <p align="center">&nbsp;<img  src="http://github-readme-streak-stats.herokuapp.com?user=raeeceip&theme=dark&hide_border=true" alt="raeeceip" /></p>
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raeeceip&layout=compact&theme=vision-friendly-dark" alt="raeeceip" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raeeceip&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
