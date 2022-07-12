@@ -24,6 +24,7 @@
 <p align="center"> <a href="https://twitter.com/_Chisomu" target="blank"><img src="https://img.shields.io/twitter/follow/_Chisomu?logo=twitter&style=for-the-badge" alt="_Chisomu" /></a> </p>
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=raeeceip&theme=dark&show_icons=true&locale=en" alt="raeeceip" /></p>
 
+<p align="center">&nbsp;<img  src="http://github-readme-streak-stats.herokuapp.com?user=raeeceip&theme=dark&hide_border=true" alt="raeeceip" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeeceip&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
