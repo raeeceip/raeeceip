@@ -22,6 +22,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raeeceip&theme=dark" alt="raeeceip" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_Chisomu" target="blank"><img src="https://img.shields.io/twitter/follow/_Chisomu?logo=twitter&style=for-the-badge" alt="_Chisomu" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raeeceip&theme=dark&show_icons=true&locale=en" alt="raeeceip" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raeeceip&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
