@@ -21,7 +21,7 @@
 
 ---
 
-### Github Statistics and others...
+<h1 align="center" style="color: green"> Stats </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raeeceip&label=Profile%20views&color=0e75b6&style=flat" alt="raeeceip" /> </p>
 
