@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Chiso**
+- 👋 Hi, my name's  **Chiso**
 - 👀 I’m a Psych major interested in neuropsychology, Frontend design  and machine learning
 - 🌱 I’m currently learning  React, Tailwind  and Django frameworks
 - 💞️ I’m looking to collaborate on Frontend projects
