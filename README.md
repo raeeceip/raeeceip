@@ -1,4 +1,4 @@
-- 👋 Hi, my name's  **Chiso💚**
+- 👋 Hi, my name's  **Chiso**
 - 👀 I’m a Psych major interested in neuropsychology fullstack development, design  and machine learning
 - 🌱 I’m currently learning  React, Tailwind  and Django frameworks
 - 💞️ I’m looking to collaborate on amazing fullstack and SWE projects.
