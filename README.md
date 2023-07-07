@@ -1,5 +1,5 @@
 - 👋 Hi, my name's  **Chiso**
-- 👀 I’m a Psych major interested in neuropsychology fullstack development, design  and machine learning
+- 👀 CU'25's branch of CS majors, will be including me!
 - 🌱 I’m currently learning  React, Tailwind  and Django frameworks
 - 💞️ I’m looking to collaborate on amazing fullstack and SWE projects.
 - 📫 How to reach me: Email @chiboguchisomu@gmail.com
